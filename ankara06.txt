@@ -5,4 +5,5 @@ pursaklar
 yenimahalle
 demetevler
 kayas
-polatli eklendi
+polatli
+sincan
