@@ -5,3 +5,4 @@ pursaklar
 yenimahalle
 demetevler
 kayas
+polatli eklendi
